@@ -1,0 +1,61 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "7b59966f-0dc1-479d-a741-644cad5fce50")
+	(paper "A4")
+	(title_block
+		(title "INFERNO")
+		(date "2025-10-05")
+		(rev "1.0")
+	)
+	(lib_symbols)
+	(sheet
+		(at 31.75 24.13)
+		(size 20.32 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6395105d-a931-4ecf-8d41-eadbb2c4bfcb")
+		(property "Sheetname" "Microcontroller"
+			(at 31.75 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microcontroller.kicad_sch"
+			(at 31.75 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "INFERNO"
+				(path "/7b59966f-0dc1-479d-a741-644cad5fce50"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
